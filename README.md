@@ -18,11 +18,11 @@
 
 ---
 
-## `> OVERVIEW`
+## OVERVIEW
 
 **Mp3Swift** is a Windows music downloader designed around speed, simplicity, and batch processing.
 
-## `> FEATURES`
+## FEATURES
 
 ```text
 [01]  YouTube song search
@@ -34,7 +34,7 @@
 
 
 
-## `> INSTALLATION`
+## INSTALLATION
 
 ### Requirements
 
@@ -65,7 +65,7 @@ python app.py
 
 ---
 
-## `> USAGE`
+## USAGE
 
 Create a txt list of songs, like:
 
@@ -84,7 +84,7 @@ The application handles searching, matching, downloading, and conversion automat
 
 
 
-## `> WORKFLOW`
+## WORKFLOW
 
 ```text
 ┌──────────┐
@@ -119,7 +119,7 @@ The application handles searching, matching, downloading, and conversion automat
 
 ---
 
-## `> DEVELOPMENT`
+## DEVELOPMENT
 
 Clone the repository:
 
@@ -142,7 +142,7 @@ python app.py
 
 ---
 
-## `> NOTES`
+## NOTES
 
 Mp3Swift is intended for downloading content that you have permission to download.
 
