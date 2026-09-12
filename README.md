@@ -22,34 +22,6 @@
 
 **Mp3Swift** is a Windows music downloader designed around speed, simplicity, and batch processing.
 
-Search for a song, download it as an MP3, or process an entire collection at once.
-
-```text
-INPUT
-  │
-  ├── Artist - Song
-  ├── Artist - Song
-  └── Artist - Song
-        │
-        ▼
-   ┌─────────────┐
-   │  Mp3Swift   │
-   └──────┬──────┘
-          │
-          ▼
-      SEARCH / MATCH
-          │
-          ▼
-       DOWNLOAD
-          │
-          ▼
-      MP3 OUTPUT
-```
-
-Mp3Swift supports **songs available on YouTube** and can process **multiple songs in a single batch**.
-
----
-
 ## `> FEATURES`
 
 ```text
@@ -58,25 +30,9 @@ Mp3Swift supports **songs available on YouTube** and can process **multiple song
 [03]  MP3 audio downloads
 [04]  Batch processing
 [05]  Live activity / progress
-[06]  Automatic audio conversion
-[07]  Windows-focused workflow
 ```
 
-### Batch Processing
 
-Instead of downloading songs individually:
-
-```text
-Artist - Song One
-Artist - Song Two
-Artist - Song Three
-Artist - Song Four
-Artist - Song Five
-```
-
-Mp3Swift processes the entire list automatically.
-
----
 
 ## `> INSTALLATION`
 
@@ -111,61 +67,22 @@ python app.py
 
 ## `> USAGE`
 
-Create a list of songs using:
+Create a txt list of songs, like:
 
 ```text
-Artist - Song Title
-Artist - Another Song
-Artist - Another Track
+Song - Artist
+Song2-Artist
+Song3 - Artist
+tip: add the songs u like to spo0tify playlist and use playlist to txt tools
 ```
 
-Then start Mp3Swift and begin the download process.
+Then start Mp3Swift and choose the txt file and click search once it finds a matching video for each of it click download and wait.
 
 The application handles searching, matching, downloading, and conversion automatically.
 
 ---
 
-## `> PROJECT STRUCTURE`
 
-```text
-Mp3Swift/
-│
-├── app.py
-├── batch_processor.py
-├── downloader.py
-├── youtube_search.py
-├── song_parser.py
-├── ffmpeg_setup.py
-│
-├── requirements.txt
-├── README.md
-│
-└── ffmpeg/
-```
-
-### Core Components
-
-```text
-app.py
-    └── Application interface and control flow
-
-youtube_search.py
-    └── Song discovery and matching
-
-batch_processor.py
-    └── Multi-song processing pipeline
-
-downloader.py
-    └── Audio download / conversion
-
-song_parser.py
-    └── Artist / title parsing
-
-ffmpeg_setup.py
-    └── FFmpeg configuration
-```
-
----
 
 ## `> WORKFLOW`
 
@@ -239,11 +156,9 @@ Please respect copyright laws and the terms of service of the platforms you use.
 ────────────────────────────────────────────────────────────
 
                  MP3SWIFT // WINDOWS
-              FAST • SIMPLE • BATCH
+                Made by PingDealer -PDOSP
 
 ────────────────────────────────────────────────────────────
 ```
-
-**Built for fast, frictionless music downloads.**
 
 </div>
