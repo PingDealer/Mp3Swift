@@ -25,11 +25,10 @@
 ## FEATURES
 
 ```text
-[01]  YouTube song search
-[02]  Automatic song matching
-[03]  MP3 audio downloads
-[04]  Batch processing
-[05]  Live activity / progress
+  Automatic song matching
+  MP3 audio downloads
+  Batch processing
+  Live activity / progress
 ```
 
 
