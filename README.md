@@ -9,10 +9,10 @@
                                        
                                                                                                            
 ```
-
+[Features](#features) • [Installation](#installation) • [Usage](#usage) •
 ### `A fast, modern YouTube → MP3 downloader for Windows.`
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Project Structure](#project-structure)
+[Features](#features) • [Installation](#installation) • [Usage](#usage) •
 
 </div>
 
