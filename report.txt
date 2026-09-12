@@ -1,0 +1,142 @@
+============================================================
+Mp3Swift — Processing Report
+============================================================
+
+SUCCESS
+----------------------------------------
+  Song:   Manimuttathaavani
+  Result: Manimuttathavani Panthal | Dreams | K J Yesudas | Sujatha Mohan | Vidyasagar | Gireesh Puthanchery
+  URL:    https://www.youtube.com/watch?v=WSUQwaYJJLQ
+  File:   output\Manimuttathaavani.mp3
+
+  Song:   Sundariye Vaa
+  Result: Sundariye Vaa
+  URL:    https://www.youtube.com/watch?v=4TR6XmerIWw
+  File:   output\Sundariye Vaa.mp3
+
+  Song:   Kai niraye venna tharam M
+  Result: Kai Niraye Venna Tharam - Lyrical Video | Baba Kalyani | G Venugopal | Alex Paul | Mohanlal
+  URL:    https://www.youtube.com/watch?v=NaHl42qw_Vk
+  File:   output\Kai niraye venna tharam M.mp3
+
+  Song:   Sutta Suriyane
+  Result: Sutta Suriyane
+  URL:    https://www.youtube.com/watch?v=LUow2hsI6w8
+  File:   output\Sutta Suriyane.mp3
+
+  Song:   Chillanjirukkiye
+  Result: Sean Roldan - Chillanjirukkiye (Lyrics) ft. Pradeep Kumar, K. Sivaangi | Tamil Song
+  URL:    https://www.youtube.com/watch?v=nFaZchyOZgk
+  File:   output\Chillanjirukkiye.mp3
+
+  Song:   Chinnamma Adi
+  Result: Chinnamma Adi Video Song | Oppam | Mohanlal | Priyadarshan | M G Sreekumar
+  URL:    https://www.youtube.com/watch?v=97L9VAGj4Jc
+  File:   output\Chinnamma Adi.mp3
+
+  Song:   Yavanakathayil
+  Result: Ouseppachan, K. J. Yesudas, K. S. Chithra - Yavanakadhayil Ninnu Vanna (Lyrics)
+  URL:    https://www.youtube.com/watch?v=jdUKUvx50uE
+  File:   output\Yavanakathayil.mp3
+
+  Song:   Mundiri Paadam
+  Result: Mundiri Paadam | Kochi Rajavu  |Video| Dileep | Kavya Madhavan | Udit Narayan | Sujatha | Vidyasagar
+  URL:    https://www.youtube.com/watch?v=siprAVDdSgg
+  File:   output\Mundiri Paadam.mp3
+
+  Song:   Ariyathe Ariyathe
+  Result: Ariyathe Ariyathe Video Song | അറിയാതെ അറിയാതെ | Ravanaprabhu | Mohanlal | P Jayachandran, Chithra
+  URL:    https://www.youtube.com/watch?v=1WgeGByWSXM
+  File:   output\Ariyathe Ariyathe.mp3
+
+  Song:   Udhicha Chandirante
+  Result: Udicha Chandirante | VIDEO SONG | Punjabi House | Dileep | Mano, M G Sreekumar | Suresh Peters
+  URL:    https://www.youtube.com/watch?v=ZzugBxVnGXc
+  File:   output\Udhicha Chandirante.mp3
+
+  Song:   Aaruparanju
+  Result: Aaru Paranju Video Song | Kavya -Jayasurya | KS Chithra | P Jayachandran| Kaithapram| Berny Ignatius
+  URL:    https://www.youtube.com/watch?v=mVdnueBm1dM
+  File:   output\Aaruparanju.mp3
+
+  Song:   Kudamulla Kammalaninjaal
+  Result: Kudamulla Kammalaninju 4K Remastered | Video Song | Gireesh Puthenchery | Ouseppachan | KJ Yesudas
+  URL:    https://www.youtube.com/watch?v=x0II3kK5310
+  File:   output\Kudamulla Kammalaninjaal.mp3
+
+  Song:   Ente Thenkasi
+  Result: Ente Thenkasi
+  URL:    https://www.youtube.com/watch?v=qL6-p-2SdT0
+  File:   output\Ente Thenkasi.mp3
+
+  Song:   Kaithappoovin
+  Result: Kaithappoovin | Kannezhuthi Pottum Thottu | Mohanlal | KS Chithra | M G Radhakrishnan
+  URL:    https://www.youtube.com/watch?v=UD_1Tg3GPhA
+  File:   output\Kaithappoovin.mp3
+
+  Song:   Ponnaambal Puzhayirambil
+  Result: Ponnambal Puzhayirambil Video Song | Mammootty | Mohanlal | Juhi Chawla | KJ Yesudas | KS Chithra
+  URL:    https://www.youtube.com/watch?v=9idWgU64-xM
+  File:   output\Ponnaambal Puzhayirambil.mp3
+
+  Song:   Vaisakha Sandhye
+  Result: Vaishaakha Sandhye - Male Version
+  URL:    https://www.youtube.com/watch?v=8w_X3-BsRG0
+  File:   output\Vaisakha Sandhye.mp3
+
+  Song:   Onnam Raagam Paadi
+  Result: ഒന്നാം രാഗം പാടി Onnaam Raagam Paadi Thoovaanathumbikal Audio Song KS Chithra G Venugopal
+  URL:    https://www.youtube.com/watch?v=fsZS66MafCE
+  File:   output\Onnam Raagam Paadi.mp3
+
+  Song:   Kilippenne
+  Result: Kilippenne Audio Song | Dosth | K J Yesudas | K S Chithra | Vidyasagar | S Ramesan Nair
+  URL:    https://www.youtube.com/watch?v=OVBhWzdHpe4
+  File:   output\Kilippenne.mp3
+
+  Song:   Kakkaattile Kukootile
+  Result: Kakkattile Koo Kootile Video Song | Ee Parakkum Thalika | K.J Yesudas | K.S. Chithra | Ouseppachan
+  URL:    https://www.youtube.com/watch?v=L4uYcNhPcH8
+  File:   output\Kakkaattile Kukootile.mp3
+
+  Song:   Poomkaatte
+  Result: Poonkatte Poyi Chollamo Video Song | Shibu Chakravarthy | KS Chithra | Unni Menon | Raghu Kumar
+  URL:    https://www.youtube.com/watch?v=170DpQb2CmE
+  File:   output\Poomkaatte.mp3
+
+  Song:   Kadhayile Raajakumaariyum
+  Result: Kadhayile Raajakumaariyum (Duet Version)
+  URL:    https://www.youtube.com/watch?v=VsoQlDbWk88
+  File:   output\Kadhayile Raajakumaariyum.mp3
+
+  Song:   Maanathe Velli
+  Result: Maanathe Velli | Palunku | KJ Yesudas | Mohan Sithara | Vayalar Sarathchandra Varma
+  URL:    https://www.youtube.com/watch?v=me5Kwf-HeOo
+  File:   output\Maanathe Velli.mp3
+
+  Song:   Thumpayum Thulasiyum
+  Result: തുമ്പയും തുളസിയും | Thumbayum Thulasiyum | K S Chithra | Ouseppachan |  Mammootty | Megham Movie
+  URL:    https://www.youtube.com/watch?v=E5VVfLAPZcg
+  File:   output\Thumpayum Thulasiyum.mp3
+
+  Song:   Karukarekaruthoru
+  Result: Karukare Karuthoru | Lyrical Video | Balettan | Mohanlal | Gireesh Puthencherry | M Jayachandran
+  URL:    https://www.youtube.com/watch?v=fH-HT-UAYCI
+  File:   output\Karukarekaruthoru.mp3
+
+  Song:   Pinne Ennodonnum
+  Result: Pinne Ennodonnum (Version, 01)
+  URL:    https://www.youtube.com/watch?v=ji_vAIju9K4
+  File:   output\Pinne Ennodonnum.mp3
+
+FAILED
+----------------------------------------
+  (none)
+
+UNCERTAIN
+----------------------------------------
+  (none)
+
+============================================================
+Total: 25  |  Success: 25  |  Failed: 0  |  Uncertain: 25  |  Skipped: 0
+============================================================

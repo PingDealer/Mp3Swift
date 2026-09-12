@@ -1,0 +1,12 @@
+{
+    "output_dir": "output",
+    "ffmpeg_dir": "ffmpeg",
+    "confidence_threshold": 100,
+    "max_results_per_search": 5,
+    "audio_format": "mp3",
+    "audio_quality": "192",
+    "log_file": "ytmusicbatch.log",
+    "report_file": "report.txt",
+    "max_retries": 2,
+    "retry_delay_seconds": 3
+}
