@@ -9,7 +9,7 @@
                                        
                                                                                                            
 ```
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Workflow](#workflow) • [Development](#development) • [Notes](#notes)
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Development](#development) • [Notes](#notes)
 ### `A fast, modern YouTube → MP3 downloader for Windows.`
 
 
@@ -84,38 +84,7 @@ The application handles searching, matching, downloading, and conversion automat
 
 
 
-## WORKFLOW
 
-```text
-┌──────────┐
-│   INPUT  │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│  PARSER  │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│  SEARCH  │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│  MATCH   │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│ DOWNLOAD │
-└────┬─────┘
-     │
-     ▼
-┌──────────┐
-│   MP3    │
-└──────────┘
-```
 
 ---
 
